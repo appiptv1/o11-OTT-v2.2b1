@@ -12,6 +12,6 @@ systemctl enable o11.service
 systemctl start o11.service
 
 echo "Installation Complete"
-echo "Please login YOURIP:8999"
+echo "Please login YOURIP:8990"
 echo "USERNAME/PASSWORD admin admin"
 
